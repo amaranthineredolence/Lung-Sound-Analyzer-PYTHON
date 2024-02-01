@@ -12,3 +12,5 @@ button is applied, the audio frequency visual is updated according to the final 
 the audio. This application offers doctors an effective tool by combining many
 processes used in the analysis of lung sounds into one platform.
 
+
+![lung](https://github.com/amaranthineredolence/Lung-Sound-Analyzer-PYTHON/assets/66516780/067cc977-01e6-488c-a290-885357852fab)
